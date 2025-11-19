@@ -1,0 +1,21 @@
+{
+  "name": "api-nodejs-2desa-2sem-25",
+  "version": "1.0.0",
+  "description": "Sistema exemplo para TCC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewertonjsilva/api-nodejs-2desA-2sem-25.git"
+  },
+  "keywords": ["api", "sistema restaurante", "exmplo para tcc"],
+  "author": "Ewerton",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ewertonjsilva/api-nodejs-2desA-2sem-25/issues"
+  },
+  "homepage": "https://github.com/ewertonjsilva/api-nodejs-2desA-2sem-25#readme"
+}
